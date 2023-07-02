@@ -1,3 +1,4 @@
-Chellenge 2 - Python If-Else
+## Chellenge 2 - Python If-Else
 
-[Redirect to HackerRank](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)
+- Instructions: [Redirect to HackerRank](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)
+- Solution: main.py

@@ -1,3 +1,4 @@
 ## Chellenge 1 - Hello World
 
-[Redirect to HackerRank](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
+- Instructions: [Redirect to HackerRank](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
+- Solution: main.py
