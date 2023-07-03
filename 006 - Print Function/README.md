@@ -1,4 +1,4 @@
 ## Chellenge 6 - Print Function
 
-- Instructions: [Redirect to HackerRank]([label](<../005 - Write a Function/README.md>))
+- Instructions: [Redirect to HackerRank](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true>)
 - Solution: [main.py](./main.py)
